@@ -1,10 +1,12 @@
 Package: praiseme
-Title: What the Package Does (One Line, Title Case)
+Title: Deliver Praise to Someone
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+    person(given = "Ze Hong", 
+           family = "Zhou", 
+           role = c("aut", "cre"), 
+           email = "nzh.zhou@outlook.com")
+Description: We all deserve a little encouragement sometimes to keep us going (Plus Ultra!). This package aims to deliver a little praise whenever you need it.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
