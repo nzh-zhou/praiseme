@@ -15,3 +15,5 @@ BugReports: https://github.com/nzh-zhou/praiseme/issues
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+Imports: 
+    glue
